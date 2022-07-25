@@ -1,0 +1,23 @@
+{
+  "name": "learning-rxjs",
+  "version": "1.0.0",
+  "description": "In this project I have practiced with RxJS, in particular with the concepts of observables, pipes and observers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manu-sing/Learning-RxJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manu-sing/Learning-RxJS/issues"
+  },
+  "homepage": "https://github.com/Manu-sing/Learning-RxJS#readme",
+  "dependencies": {
+    "rxjs": "^7.5.6"
+  }
+}
